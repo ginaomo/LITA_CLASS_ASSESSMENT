@@ -4,16 +4,16 @@
 
 
 ### Project Overview
-
+---
 This record assessment enables proper scruitiny and evaluation of the sales data gathered in the year 2014 and 2015 respectively.
 this analysis will critically looked at the  performances in different regions in relation to the strenght, weaknesses, threats and opportunities available which will in turn enable management to make valuable decisions for more productivities. 
 
 ### Data Sources
-
+---
 The primary sources of Data is sales.csv and this is an open source of data that can be freely downloadeded from open source online such as kaggle or FRED or any other  data repository site.
 
 ### Tools Used for the review
-
+---
 - Microsoft Excel[Download Here](https://www.microsoft.com)
    1. for data storage
    2. for data cleaning
@@ -26,28 +26,34 @@ The primary sources of Data is sales.csv and this is an open source of data that
    1. for portfolio building
 
 ### Data Cleaning and preparation
+---
 In the initial stage of the data cleaning and preparations; the following are the actions carried out;
   1. data loading and inspection
   2. Handling missing data
   3. Data cleaning and formatting
 
 ### Exporatory Data Analysis
-
+---
  EDA is used to analyze the data set by answering some questons about the data, such as;
   1. What is the regional sales trend
   2. What are the unit sold by region
   3. The percentage sales increase per region
 
 ### Data Analysis
-
+---
  this is where wee include some basic lines of code/ queries or even some of the DAX expression used during analysis;
 
 
+~~~SQL
 select * from Salary
  where staffid = AB281
+~~~
 
 
 ### Data Vsualization
+---
 
 
 
+
+LAUGH 
