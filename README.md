@@ -56,4 +56,4 @@ select * from Salary
 
 
 
-LAUGH 
+ 
