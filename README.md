@@ -53,7 +53,7 @@ select * from Salary
 ### Data Vsualization
 
 
-[Sales details.docx](https://github.com/user-attachments/files/17267575/Sales.details.docx)
+
 
 
 💻
