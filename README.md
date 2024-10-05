@@ -1,6 +1,20 @@
 # LITA_CLASS_ASSESSMENT
 
 ## Project Title: Sales Record Analysis`
+---
+[Project Overview](project-overview)
+
+[Data Sources](data-sources)
+
+[Tools Used for the review](Tools-used-for-the-review)
+
+[Data Cleaning and preparation](ata-cleaning-and-preparation)
+
+[Exporatory Data Analysis](exporatory-data-analysis)
+
+[Data Analysis](data-analysis)
+
+[Data Visualization](data-visualization)
 
 
 ### Project Overview
@@ -50,7 +64,7 @@ select * from Salary
 ~~~
 
 
-### Data Vsualization
+### Data Visualization
 
 
 ![Uploading sales deatils by location, regions , line of business and revenue.PNG…]()
