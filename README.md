@@ -67,7 +67,7 @@ select * from Salary
 ### Data Visualization
 
 
-![Uploading sales deatils by location, regions , line of business and revenue.PNG…]()
+
 
 
 
