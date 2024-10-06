@@ -66,13 +66,17 @@ select * from Salary
 
 ### Data Visualization
 
-
-
+![Sales analysis by four different parameters](https://github.com/user-attachments/assets/d0c25f17-e209-417c-b20a-5458e7b83295)
 
 
 
 
 💻
+
+🥉
+
+🤑
+
 🥉
 ---
 
