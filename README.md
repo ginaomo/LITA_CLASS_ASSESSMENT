@@ -2,19 +2,19 @@
 
 ## Project Title: Sales Record Analysis`
 ---
-[Project Overview](project-overview)
+[Project Overview](#project-overview)
 
-[Data Sources](data-sources)
+[Data Sources](#data-sources)
 
-[Tools Used for the review](Tools-used-for-the-review)
+[Tools Used for the review](#tools-used-for-the-review)
 
-[Data Cleaning and preparation](ata-cleaning-and-preparation)
+[Data Cleaning and preparation](#data-cleaning-and-preparation)
 
-[Exporatory Data Analysis](exporatory-data-analysis)
+[Exporatory Data Analysis](#exporatory-data-analysis)
 
-[Data Analysis](data-analysis)
+[Data Analysis](#data-analysis)
 
-[Data Visualization](data-visualization)
+[Data Visualization](#data-visualization)
 
 
 ### Project Overview
@@ -26,7 +26,7 @@ this analysis will critically looked at the  performances in different regions i
 ---
 The primary sources of Data is sales.csv and this is an open source of data that can be freely downloadeded from open source online such as kaggle or FRED or any other  data repository site.
 
-### Tools Used for the review
+### Tools Used For the review
 ---
 - Microsoft Excel[Download Here](https://www.microsoft.com)
    1. for data storage
